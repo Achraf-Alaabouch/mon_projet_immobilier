@@ -18,18 +18,18 @@ This project implements a complete Machine Learning pipeline to predict apartmen
 
 ## 🏗️ Project Structure
 mon_projet_immobilier/
-├── 📁 data/
-│ ├── 📁 raw/
-│  └── mubawab_listings.csv # Original scraped data
-├── 📁 notebooks/
-│ └── 01_exploration.ipynb # Complete EDA & modeling
-├── 📁 app/
-│ └── app.py # Streamlit web application
-├── 📁 models/
-│ └── mon_modele_immobilier.pkl # Trained ML model
-├── 📄 requirements.txt # Python dependencies
-├── 📄 README.md # Project documentation
-└── 📄 .gitignore # Git ignore rules
+data/
+raw/
+mubawab_listings.csv
+notebooks/
+01_exploration.ipynb
+app/
+app.py
+models/
+mon_modele_immobilier.pkl
+requirements.txt
+README.md
+.gitignore
 
 ## 🚀 Quick Start
 
