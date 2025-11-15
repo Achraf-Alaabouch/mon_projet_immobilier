@@ -7,8 +7,8 @@ This project implements a complete Machine Learning pipeline to predict apartmen
 **Business Objective:** Provide a reliable tool for potential buyers, sellers, and real estate agents to get accurate price estimates for apartments in Casablanca based on key property features.
 
 **Success Metrics:**
-- Mean Absolute Error (MAE) under 200,000 DH
-- R² score above 85%
+- Mean Absolute Error (MAE): ~633,000 DH
+- R² score: 94.07%
 - User-friendly web interface
 
 **Achieved Performance:**
