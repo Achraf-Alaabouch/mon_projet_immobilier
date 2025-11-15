@@ -12,8 +12,8 @@ This project implements a complete Machine Learning pipeline to predict apartmen
 - User-friendly web interface
 
 **Achieved Performance:**
-- ✅ **MAE:** 189,000 DH 
-- ✅ **R² Score:** 89.2%
+- ✅ **MAE:** 633,594  DH 
+- ✅ **R² Score:** 94.07 %
 - ✅ **Model:** Random Forest Regressor
 
 ## 🏗️ Project Structure
@@ -111,8 +111,8 @@ Extracted from Tags:
 - **Hyperparameters:** 100 estimators, random_state=42
 
 📈 Model Performance
-- **Mean Absolute Error (MAE):** 189,000 DH  
-- **R² Score:** 89.2%  
+- **Mean Absolute Error (MAE):**  633 594 DH
+- **R² Score:** 94.07 %  
 - **Mean Absolute Percentage Error (MAPE):** ~14%
 
 
